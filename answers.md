@@ -1,0 +1,3 @@
+1. Working directory is the local vscode/editor workspace on a computer whereas remote repository is the workbase located online on github that can be accessed by multiple people. The staging area is a holding stage where you organise changes before saving them to permanent project history. A commit is a feature that is used to save local changes like adding/removing files/lines from a file to the online git repository. 
+
+2. 'HEAD' refers to
